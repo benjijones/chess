@@ -1,0 +1,1 @@
+This is intended to be a text-based chess program, as an introduction to haskell.
